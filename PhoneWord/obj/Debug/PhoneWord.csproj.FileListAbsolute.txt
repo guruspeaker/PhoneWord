@@ -1,0 +1,15 @@
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\PhoneWord.dll
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\PhoneWord.pdb
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.csprojResolveAssemblyReference.cache
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.csproj.CoreCompileInputs.cache
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.MainPage.xaml.g.cs
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.App.xaml.g.cs
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.dll
+c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.pdb
