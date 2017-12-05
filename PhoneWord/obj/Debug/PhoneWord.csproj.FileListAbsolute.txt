@@ -13,3 +13,4 @@ c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.Ma
 c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.App.xaml.g.cs
 c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.dll
 c:\users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.pdb
+C:\Users\paulc\source\repos\PhoneWord\PhoneWord\PhoneWord\obj\Debug\PhoneWord.CallHistoryPage.xaml.g.cs
